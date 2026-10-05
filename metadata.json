@@ -1,0 +1,6 @@
+{
+  "name": "Paws & Meadow — Artisanal Pet Supply & Grooming",
+  "description": "Artisanal pet supplies, organic wholesome nutrition, botanical grooming treatments, and conscious essentials crafted with care for dogs, cats, and beloved companions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
