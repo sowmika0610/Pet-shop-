@@ -37,6 +37,8 @@ jobs:
 
       - name: Build project with Vite
         run: npm run build
+        env:
+	BASE_URL: /pet-shop/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
